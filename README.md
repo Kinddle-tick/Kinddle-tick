@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning in UESTC
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--
 **Kinddle-tick/Kinddle-tick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
